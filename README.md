@@ -1,10 +1,6 @@
-
-
-
-
 <table>
   <tr>
-    <td><img src="https://tryhackme-badges.s3.amazonaws.com/so1icitx.png" width="200" alt="TryHackMe Badge"></td>
+    <td><img src="https://tryhackme-badges.s3.amazonaws.com/so1icitx.png" width="400" alt="TryHackMe Badge"></td>
     <td>
       <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -25,18 +21,3 @@ ANDxnJHlaYiiq7jIvoZ3H3WrgeSdVsFdVkBAA/w6Ep0G
     </td>
   </tr>
 </table>
-
-<!--
-**so1icitx/so1icitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

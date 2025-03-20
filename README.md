@@ -1,4 +1,10 @@
-## Hi there 👋
+
+
+
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/so1icitx.png)
+
+
 
 <!--
 **so1icitx/so1icitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

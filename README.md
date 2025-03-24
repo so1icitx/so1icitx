@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      
+      <img src="https://tryhackme-badges.s3.amazonaws.com/so1icitx.png" alt="so1icitx" />
     <td>
       <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----

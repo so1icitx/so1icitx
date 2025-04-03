@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="new1.png" alt="so1icitx" />
+      <img src="so1icitx.png" alt="so1icitx" />
     <td>
       <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
